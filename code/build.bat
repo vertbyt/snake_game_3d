@@ -1,7 +1,5 @@
 @echo off
 
-REM BUILD YO
-
 set ADD_INC=/I ../sdl2/include/ /I ../stb/ /I ../assimp/include/
 set CL_FLAGS=-Zi -Od -nologo -c  %ADD_INC% -F4194304 -std:c++14
 
