@@ -1,0 +1,16 @@
+Todo:
+- code cleanup(make entities part of the level structure)
+- github
+
+Ideas: 
+- spike blocks and saws
+- lasers(body can be hit by lasers but not the head. pushable and gravity)
+- steep block(not sure)
+
+Polish:
+- Audio
+- Shadows
+- Menues(Main, Paused, Level Select)
+- Particles(Targets, Snake body cutting)
+
+

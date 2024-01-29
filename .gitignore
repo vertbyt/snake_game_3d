@@ -1,0 +1,5 @@
+build/
+assimp/
+sdl2/
+stb/
+run_tree/
